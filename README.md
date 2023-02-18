@@ -1,9 +1,9 @@
 # Jez Johns
 ## Educationalist and computing hobbyist, becoming computerist and education hobbyist   
 From then to now, passing through:    
-  - History degree   
+
   - Three years teaching English in Portugal   
-  - Fifteen years as a primary school teacher in England   
+  - Twenty years as a primary school teacher in England   
   - Eight years as a primary school headteacher   
   - Three years as a teacher trainer    
 
