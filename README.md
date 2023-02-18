@@ -3,9 +3,9 @@
 From then to now, passing through:    
   - History degree   
   - Three years teaching English in Portugal   
-  - Primary school teacher in England   
-  - Primary school headteacher   
-  - Primary teacher trainer    
+  - Fifteen years as a primary school teacher in England   
+  - Eight years as a primary school headteacher   
+  - Three years as a teacher trainer    
 
 But always computing, from QBasic to Visual Basic to VBA to Python and now to HTML-CSS-JS   
 Also taking in Logo and Scratch, wonderful primary-school-friendly computer languages   
