@@ -7,8 +7,8 @@ From then to now, passing through:
   - Eight years as a primary school headteacher   
   - Three years as a teacher trainer    
 
-But always computing, from QBasic to Visual Basic to VBA to Python and now to HTML-CSS-JS   
-Also taking in Logo and Scratch, wonderful primary-school-friendly computer languages   
+But always computing, from Basic to QBasic to Visual Basic to VBA to Python and now to HTML-CSS-JS   
+Also taking in [Logo](https://turtleacademy.com/) and [Scratch](https://scratch.mit.edu/), wonderful primary-school-friendly computer languages   
 
 <!--
 **jezinho22/jezinho22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
