@@ -1,5 +1,5 @@
 # Jez Johns
-## Educationalist and computing hobbyist, becoming computerist and education hobbyist   
+## Educationalist and dev hobbyist, becoming developer and education hobbyist   
 From then to now, passing through:    
 
   - Three years teaching English in Portugal   
